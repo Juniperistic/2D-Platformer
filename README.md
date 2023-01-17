@@ -1,2 +1,2 @@
 # 2D-Platformer
-One of the projects I worked on for 2D Game Dev Class. 
+One of the projects I worked on for 2D Game Dev Class. We worked on this project for about 6 weeks (roughly half of the semester). It was created using Visual Studio 2022 Community Edition utilizing the coding language of C# as well as the Unity Game Engine to design the models and features of the game. We used Platformer Art Assets found at: https://www.kenney.nl/assets/platformer-art-deluxe for the creation of our levels. There were a number of versions of this game created in which changes were made in terms of fixes and the addition of characters, audio, and other features.
